@@ -1,0 +1,12 @@
+{
+  "name": "exam-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "server": "json-server -w db.json -p=3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
